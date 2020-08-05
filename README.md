@@ -13,11 +13,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#5236](https://github.com//DIYgod/RSSHub/issues/5236) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-2. ❗️ Closed issue [#5356](https://github.com//DIYgod/RSSHub/issues/5356) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-3. ❗️ Closed issue [#5350](https://github.com//DIYgod/RSSHub/issues/5350) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-4. ❗️ Closed issue [#5230](https://github.com//DIYgod/RSSHub/issues/5230) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-5. 🗣 Commented on [#5348](https://github.com//DIYgod/RSSHub/issues/5348) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+1. ❗️ Closed issue [#5107](https://github.com//DIYgod/RSSHub/issues/5107) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+2. ❗️ Closed issue [#5240](https://github.com//DIYgod/RSSHub/issues/5240) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+3. ❗️ Closed issue [#5246](https://github.com//DIYgod/RSSHub/issues/5246) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+4. 🎉 Merged PR [#5348](https://github.com//DIYgod/RSSHub/pull/5348) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+5. 🎉 Merged PR [#5354](https://github.com//DIYgod/RSSHub/pull/5354) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
 <!--END_SECTION:activity-->
 
 ---
