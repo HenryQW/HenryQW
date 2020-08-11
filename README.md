@@ -13,11 +13,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#48](https://github.com//HenryQW/cs.henry.wang/pull/48) in [HenryQW/cs.henry.wang](https://github.com//HenryQW/cs.henry.wang)
-2. 🎉 Merged PR [#49](https://github.com//HenryQW/cs.henry.wang/pull/49) in [HenryQW/cs.henry.wang](https://github.com//HenryQW/cs.henry.wang)
-3. 🎉 Merged PR [#592](https://github.com//HenryQW/api.henry.wang/pull/592) in [HenryQW/api.henry.wang](https://github.com//HenryQW/api.henry.wang)
-4. 🎉 Merged PR [#5373](https://github.com//DIYgod/RSSHub/pull/5373) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-5. 🎉 Merged PR [#5383](https://github.com//DIYgod/RSSHub/pull/5383) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+1. 🎉 Merged PR [#5387](https://github.com//DIYgod/RSSHub/pull/5387) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+2. ❗️ Closed issue [#5382](https://github.com//DIYgod/RSSHub/issues/5382) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+3. 🎉 Merged PR [#48](https://github.com//HenryQW/cs.henry.wang/pull/48) in [HenryQW/cs.henry.wang](https://github.com//HenryQW/cs.henry.wang)
+4. 🎉 Merged PR [#49](https://github.com//HenryQW/cs.henry.wang/pull/49) in [HenryQW/cs.henry.wang](https://github.com//HenryQW/cs.henry.wang)
+5. 🎉 Merged PR [#592](https://github.com//HenryQW/api.henry.wang/pull/592) in [HenryQW/api.henry.wang](https://github.com//HenryQW/api.henry.wang)
 <!--END_SECTION:activity-->
 
 ---
