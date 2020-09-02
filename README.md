@@ -13,11 +13,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5575](https://github.com//DIYgod/RSSHub/pull/5575) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-2. 🗣 Commented on [#5572](https://github.com//DIYgod/RSSHub/issues/5572) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-3. 🎉 Merged PR [#5570](https://github.com//DIYgod/RSSHub/pull/5570) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-4. 🎉 Merged PR [#5518](https://github.com//DIYgod/RSSHub/pull/5518) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
-5. 🎉 Merged PR [#45](https://github.com//HenryQW/Thank-You-Japan/pull/45) in [HenryQW/Thank-You-Japan](https://github.com//HenryQW/Thank-You-Japan)
+1. 🗣 Commented on [#5582](https://github.com//DIYgod/RSSHub/issues/5582) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+2. 🎉 Merged PR [#612](https://github.com//HenryQW/api.henry.wang/pull/612) in [HenryQW/api.henry.wang](https://github.com//HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#168](https://github.com//HenryQW/mercury-parser-api/pull/168) in [HenryQW/mercury-parser-api](https://github.com//HenryQW/mercury-parser-api)
+4. ❌ Closed PR [#5581](https://github.com//DIYgod/RSSHub/pull/5581) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
+5. 🎉 Merged PR [#5526](https://github.com//DIYgod/RSSHub/pull/5526) in [DIYgod/RSSHub](https://github.com//DIYgod/RSSHub)
 <!--END_SECTION:activity-->
 
 ---
