@@ -13,11 +13,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5730](https://github.com/DIYgod/RSSHub/pull/5730) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. ❗️ Closed issue [#4325](https://github.com/DIYgod/RSSHub/issues/4325) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 🗣 Commented on [#5724](https://github.com/DIYgod/RSSHub/issues/5724) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 🎉 Merged PR [#5727](https://github.com/DIYgod/RSSHub/pull/5727) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. 🗣 Commented on [#5737](https://github.com/DIYgod/RSSHub/issues/5737) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🗣 Commented on [#190](https://github.com/HenryQW/Awesome-TTRSS/issues/190) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+2. 🎉 Merged PR [#5730](https://github.com/DIYgod/RSSHub/pull/5730) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. ❗️ Closed issue [#4325](https://github.com/DIYgod/RSSHub/issues/4325) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. 🗣 Commented on [#5724](https://github.com/DIYgod/RSSHub/issues/5724) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#5727](https://github.com/DIYgod/RSSHub/pull/5727) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
 
 ---
