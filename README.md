@@ -13,11 +13,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#5763](https://github.com/DIYgod/RSSHub/issues/5763) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. 🗣 Commented on [#3](https://github.com/stringbean/homebridge-drayton-wiser/issues/3) in [stringbean/homebridge-drayton-wiser](https://github.com/stringbean/homebridge-drayton-wiser)
-3. 🗣 Commented on [#5780](https://github.com/DIYgod/RSSHub/issues/5780) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 🎉 Merged PR [#625](https://github.com/HenryQW/RSSHub/pull/625) in [HenryQW/RSSHub](https://github.com/HenryQW/RSSHub)
-5. 🎉 Merged PR [#5758](https://github.com/DIYgod/RSSHub/pull/5758) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#5785](https://github.com/DIYgod/RSSHub/pull/5785) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 🗣 Commented on [#5789](https://github.com/DIYgod/RSSHub/issues/5789) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. 🎉 Merged PR [#5773](https://github.com/DIYgod/RSSHub/pull/5773) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. 🎉 Merged PR [#5747](https://github.com/DIYgod/RSSHub/pull/5747) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#5786](https://github.com/DIYgod/RSSHub/pull/5786) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
 
 ---
