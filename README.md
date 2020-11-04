@@ -15,9 +15,9 @@
 
 1. 🗣 Commented on [#219](https://github.com/HenryQW/Awesome-TTRSS/issues/219) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 2. 🗣 Commented on [#219](https://github.com/HenryQW/Awesome-TTRSS/issues/219) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. ❗️ Closed issue [#220](https://github.com/HenryQW/Awesome-TTRSS/issues/220) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🗣 Commented on [#220](https://github.com/HenryQW/Awesome-TTRSS/issues/220) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. 🗣 Commented on [#218](https://github.com/HenryQW/Awesome-TTRSS/issues/218) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+3. 🗣 Commented on [#219](https://github.com/HenryQW/Awesome-TTRSS/issues/219) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. ❗️ Closed issue [#220](https://github.com/HenryQW/Awesome-TTRSS/issues/220) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#220](https://github.com/HenryQW/Awesome-TTRSS/issues/220) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
 
 ---
