@@ -19,9 +19,3 @@
 4. 🎉 Merged PR [#6114](https://github.com/DIYgod/RSSHub/pull/6114) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 5. 💪 Opened PR [#6117](https://github.com/DIYgod/RSSHub/pull/6117) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
-
----
-
-### :calendar: Code Stats
-
-![WakaTime](https://github.com/HenryQW/HenryQW/blob/master/images/stat.svg)
