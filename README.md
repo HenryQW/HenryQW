@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6173](https://github.com/DIYgod/RSSHub/issues/6173) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. 🗣 Commented on [#1](https://github.com/DIYgod/ttrss-plugin-remove-iframe-sandbox/issues/1) in [DIYgod/ttrss-plugin-remove-iframe-sandbox](https://github.com/DIYgod/ttrss-plugin-remove-iframe-sandbox)
-3. 🎉 Merged PR [#60](https://github.com/HenryQW/Thank-You-Japan/pull/60) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
-4. 🎉 Merged PR [#6172](https://github.com/DIYgod/RSSHub/pull/6172) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. 💪 Opened PR [#6172](https://github.com/DIYgod/RSSHub/pull/6172) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. ❗️ Closed issue [#6122](https://github.com/DIYgod/RSSHub/issues/6122) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 🗣 Commented on [#6122](https://github.com/DIYgod/RSSHub/issues/6122) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. ❗️ Closed issue [#6178](https://github.com/DIYgod/RSSHub/issues/6178) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. ❗️ Closed issue [#6177](https://github.com/DIYgod/RSSHub/issues/6177) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. ❗️ Closed issue [#6173](https://github.com/DIYgod/RSSHub/issues/6173) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
