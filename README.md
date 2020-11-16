@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#779](https://github.com/AdguardTeam/AdguardForMac/issues/779) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
-2. 🗣 Commented on [#226](https://github.com/HenryQW/Awesome-TTRSS/issues/226) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. ❗️ Closed issue [#6179](https://github.com/DIYgod/RSSHub/issues/6179) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 🗣 Commented on [#6179](https://github.com/DIYgod/RSSHub/issues/6179) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. 🎉 Merged PR [#6176](https://github.com/DIYgod/RSSHub/pull/6176) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#667](https://github.com/HenryQW/api.henry.wang/pull/667) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+2. ❗️ Opened issue [#779](https://github.com/AdguardTeam/AdguardForMac/issues/779) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
+3. 🗣 Commented on [#226](https://github.com/HenryQW/Awesome-TTRSS/issues/226) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. ❗️ Closed issue [#6179](https://github.com/DIYgod/RSSHub/issues/6179) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🗣 Commented on [#6179](https://github.com/DIYgod/RSSHub/issues/6179) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
