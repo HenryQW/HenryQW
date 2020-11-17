@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#668](https://github.com/HenryQW/api.henry.wang/pull/668) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. 🎉 Merged PR [#6182](https://github.com/DIYgod/RSSHub/pull/6182) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. ❗️ Closed issue [#226](https://github.com/HenryQW/Awesome-TTRSS/issues/226) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🗣 Commented on [#226](https://github.com/HenryQW/Awesome-TTRSS/issues/226) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. 🎉 Merged PR [#667](https://github.com/HenryQW/api.henry.wang/pull/667) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+1. 🗣 Commented on [#1374](https://github.com/AdguardTeam/CoreLibs/issues/1374) in [AdguardTeam/CoreLibs](https://github.com/AdguardTeam/CoreLibs)
+2. 🗣 Commented on [#79](https://github.com/nathansnwn/RSSHub/issues/79) in [nathansnwn/RSSHub](https://github.com/nathansnwn/RSSHub)
+3. 🗣 Commented on [#66533](https://github.com/AdguardTeam/AdguardFilters/issues/66533) in [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
+4. 🗣 Commented on [#1374](https://github.com/AdguardTeam/CoreLibs/issues/1374) in [AdguardTeam/CoreLibs](https://github.com/AdguardTeam/CoreLibs)
+5. 🎉 Merged PR [#6189](https://github.com/DIYgod/RSSHub/pull/6189) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
