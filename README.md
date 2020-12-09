@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#679](https://github.com/HenryQW/api.henry.wang/pull/679) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. 🎉 Merged PR [#669](https://github.com/HenryQW/api.henry.wang/pull/669) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-3. 🎉 Merged PR [#70](https://github.com/HenryQW/cs.henry.wang/pull/70) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-4. 🎉 Merged PR [#89](https://github.com/HenryQW/tele-initium/pull/89) in [HenryQW/tele-initium](https://github.com/HenryQW/tele-initium)
-5. 🎉 Merged PR [#230](https://github.com/HenryQW/mercury-parser-api/pull/230) in [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api)
+1. 🎉 Merged PR [#675](https://github.com/HenryQW/api.henry.wang/pull/675) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+2. 🎉 Merged PR [#672](https://github.com/HenryQW/api.henry.wang/pull/672) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#678](https://github.com/HenryQW/api.henry.wang/pull/678) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+4. 🗣 Commented on [#6353](https://github.com/DIYgod/RSSHub/issues/6353) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#6385](https://github.com/DIYgod/RSSHub/pull/6385) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
