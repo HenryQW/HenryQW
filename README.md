@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6243](https://github.com/DIYgod/RSSHub/issues/6243) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. 🎉 Merged PR [#6353](https://github.com/DIYgod/RSSHub/pull/6353) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 🎉 Merged PR [#6403](https://github.com/DIYgod/RSSHub/pull/6403) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. ❗️ Closed issue [#6399](https://github.com/DIYgod/RSSHub/issues/6399) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. 🎉 Merged PR [#6404](https://github.com/DIYgod/RSSHub/pull/6404) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. ❗️ Closed issue [#16](https://github.com/HenryQW/OpenCC.henry.wang/issues/16) in [HenryQW/OpenCC.henry.wang](https://github.com/HenryQW/OpenCC.henry.wang)
+2. ❗️ Closed issue [#6348](https://github.com/DIYgod/RSSHub/issues/6348) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. 🗣 Commented on [#6348](https://github.com/DIYgod/RSSHub/issues/6348) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. 🗣 Commented on [#6204](https://github.com/DIYgod/RSSHub/issues/6204) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. ❗️ Closed issue [#6381](https://github.com/DIYgod/RSSHub/issues/6381) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
