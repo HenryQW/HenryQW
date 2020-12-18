@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#232](https://github.com/HenryQW/Awesome-TTRSS/issues/232) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-2. 🎉 Merged PR [#6453](https://github.com/DIYgod/RSSHub/pull/6453) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. ❗️ Closed issue [#6451](https://github.com/DIYgod/RSSHub/issues/6451) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. 🎉 Merged PR [#6447](https://github.com/DIYgod/RSSHub/pull/6447) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. ❗️ Closed issue [#6268](https://github.com/DIYgod/RSSHub/issues/6268) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#6458](https://github.com/DIYgod/RSSHub/pull/6458) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 🎉 Merged PR [#6472](https://github.com/DIYgod/RSSHub/pull/6472) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. ❗️ Closed issue [#6470](https://github.com/DIYgod/RSSHub/issues/6470) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. 🗣 Commented on [#1114](https://github.com/DIYgod/RSSHub/issues/1114) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#691](https://github.com/HenryQW/api.henry.wang/pull/691) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
 <!--END_SECTION:activity-->
