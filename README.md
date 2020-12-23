@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6509](https://github.com/DIYgod/RSSHub/pull/6509) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. 💪 Opened PR [#6509](https://github.com/DIYgod/RSSHub/pull/6509) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 🎉 Merged PR [#69](https://github.com/HenryQW/Thank-You-Japan/pull/69) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
-4. 🗣 Commented on [#55](https://github.com/HenryQW/blog/issues/55) in [HenryQW/blog](https://github.com/HenryQW/blog)
-5. 🎉 Merged PR [#6497](https://github.com/DIYgod/RSSHub/pull/6497) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#6489](https://github.com/DIYgod/RSSHub/pull/6489) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. ❗️ Closed issue [#6483](https://github.com/DIYgod/RSSHub/issues/6483) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. 🎉 Merged PR [#6480](https://github.com/DIYgod/RSSHub/pull/6480) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+4. ❗️ Closed issue [#6452](https://github.com/DIYgod/RSSHub/issues/6452) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#6478](https://github.com/DIYgod/RSSHub/pull/6478) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
