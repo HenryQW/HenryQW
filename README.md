@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6450](https://github.com/DIYgod/RSSHub/issues/6450) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-2. ❗️ Closed issue [#6541](https://github.com/DIYgod/RSSHub/issues/6541) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-3. 🗣 Commented on [#6541](https://github.com/DIYgod/RSSHub/issues/6541) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-4. ❗️ Closed issue [#6576](https://github.com/DIYgod/RSSHub/issues/6576) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. 🗣 Commented on [#6576](https://github.com/DIYgod/RSSHub/issues/6576) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#698](https://github.com/HenryQW/api.henry.wang/pull/698) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+2. 🎉 Merged PR [#697](https://github.com/HenryQW/api.henry.wang/pull/697) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#70](https://github.com/HenryQW/Thank-You-Japan/pull/70) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+4. 🎉 Merged PR [#74](https://github.com/HenryQW/cs.henry.wang/pull/74) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
+5. ❗️ Closed issue [#6450](https://github.com/DIYgod/RSSHub/issues/6450) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 <!--END_SECTION:activity-->
