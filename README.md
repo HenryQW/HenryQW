@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#698](https://github.com/HenryQW/api.henry.wang/pull/698) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. 🎉 Merged PR [#697](https://github.com/HenryQW/api.henry.wang/pull/697) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-3. 🎉 Merged PR [#70](https://github.com/HenryQW/Thank-You-Japan/pull/70) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
-4. 🎉 Merged PR [#74](https://github.com/HenryQW/cs.henry.wang/pull/74) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-5. ❗️ Closed issue [#6450](https://github.com/DIYgod/RSSHub/issues/6450) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+1. 🎉 Merged PR [#76](https://github.com/HenryQW/cs.henry.wang/pull/76) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
+2. 🎉 Merged PR [#97](https://github.com/HenryQW/tele-initium/pull/97) in [HenryQW/tele-initium](https://github.com/HenryQW/tele-initium)
+3. 🎉 Merged PR [#75](https://github.com/HenryQW/cs.henry.wang/pull/75) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
+4. 🎉 Merged PR [#6560](https://github.com/DIYgod/RSSHub/pull/6560) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+5. 🎉 Merged PR [#100](https://github.com/HenryQW/tele-initium/pull/100) in [HenryQW/tele-initium](https://github.com/HenryQW/tele-initium)
 <!--END_SECTION:activity-->
