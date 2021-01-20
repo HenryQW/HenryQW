@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#240](https://github.com/HenryQW/Awesome-TTRSS/issues/240) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-2. 🗣 Commented on [#239](https://github.com/HenryQW/Awesome-TTRSS/issues/239) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🎉 Merged PR [#703](https://github.com/HenryQW/api.henry.wang/pull/703) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-4. ❗️ Closed issue [#6649](https://github.com/DIYgod/RSSHub/issues/6649) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-5. ❗️ Closed issue [#237](https://github.com/HenryQW/Awesome-TTRSS/issues/237) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. 🎉 Merged PR [#72](https://github.com/HenryQW/Thank-You-Japan/pull/72) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+2. 🗣 Commented on [#6725](https://github.com/DIYgod/RSSHub/issues/6725) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. 🎉 Merged PR [#73](https://github.com/HenryQW/Thank-You-Japan/pull/73) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+4. 🗣 Commented on [#240](https://github.com/HenryQW/Awesome-TTRSS/issues/240) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#239](https://github.com/HenryQW/Awesome-TTRSS/issues/239) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
