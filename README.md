@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#249](https://github.com/HenryQW/mercury-parser-api/issues/249) in [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api)
-2. 🎉 Merged PR [#74](https://github.com/HenryQW/Thank-You-Japan/pull/74) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
-3. ❗️ Closed issue [#239](https://github.com/HenryQW/Awesome-TTRSS/issues/239) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🗣 Commented on [#240](https://github.com/HenryQW/Awesome-TTRSS/issues/240) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. 🎉 Merged PR [#78](https://github.com/HenryQW/cs.henry.wang/pull/78) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
+1. 🎉 Merged PR [#731](https://github.com/HenryQW/RSSHub/pull/731) in [HenryQW/RSSHub](https://github.com/HenryQW/RSSHub)
+2. 🗣 Commented on [#249](https://github.com/HenryQW/mercury-parser-api/issues/249) in [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api)
+3. 🎉 Merged PR [#74](https://github.com/HenryQW/Thank-You-Japan/pull/74) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+4. ❗️ Closed issue [#239](https://github.com/HenryQW/Awesome-TTRSS/issues/239) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#240](https://github.com/HenryQW/Awesome-TTRSS/issues/240) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
