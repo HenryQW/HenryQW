@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#712](https://github.com/HenryQW/api.henry.wang/pull/712) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. 🎉 Merged PR [#710](https://github.com/HenryQW/api.henry.wang/pull/710) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-3. 🎉 Merged PR [#701](https://github.com/HenryQW/api.henry.wang/pull/701) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-4. 🎉 Merged PR [#714](https://github.com/HenryQW/api.henry.wang/pull/714) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-5. 🗣 Commented on [#118](https://github.com/HenryQW/Awesome-TTRSS/issues/118) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. 🎉 Merged PR [#77](https://github.com/HenryQW/Thank-You-Japan/pull/77) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+2. 🎉 Merged PR [#721](https://github.com/HenryQW/api.henry.wang/pull/721) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#78](https://github.com/HenryQW/Thank-You-Japan/pull/78) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+4. 🎉 Merged PR [#712](https://github.com/HenryQW/api.henry.wang/pull/712) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+5. 🎉 Merged PR [#710](https://github.com/HenryQW/api.henry.wang/pull/710) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
 <!--END_SECTION:activity-->
