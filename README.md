@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#241](https://github.com/HenryQW/Awesome-TTRSS/issues/241) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-2. 🗣 Commented on [#259](https://github.com/HenryQW/Awesome-TTRSS/issues/259) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🗣 Commented on [#253](https://github.com/HenryQW/Awesome-TTRSS/issues/253) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🎉 Merged PR [#254](https://github.com/HenryQW/Awesome-TTRSS/pull/254) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. ❗️ Closed issue [#240](https://github.com/HenryQW/Awesome-TTRSS/issues/240) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. 🗣 Commented on [#20](https://github.com/DigitalDJ/tinytinyrss-fever-plugin/issues/20) in [DigitalDJ/tinytinyrss-fever-plugin](https://github.com/DigitalDJ/tinytinyrss-fever-plugin)
+2. ❗️ Reopened issue [#98](https://github.com/HenryQW/Awesome-TTRSS/issues/98) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+3. 🗣 Commented on [#98](https://github.com/HenryQW/Awesome-TTRSS/issues/98) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. ❗️ Closed issue [#241](https://github.com/HenryQW/Awesome-TTRSS/issues/241) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#259](https://github.com/HenryQW/Awesome-TTRSS/issues/259) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
