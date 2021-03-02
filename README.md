@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#89](https://github.com/levito/tt-rss-feedly-theme/pull/89) in [levito/tt-rss-feedly-theme](https://github.com/levito/tt-rss-feedly-theme)
-2. ❗️ Closed issue [#274](https://github.com/HenryQW/Awesome-TTRSS/issues/274) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🎉 Merged PR [#275](https://github.com/HenryQW/Awesome-TTRSS/pull/275) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🗣 Commented on [#273](https://github.com/HenryQW/Awesome-TTRSS/issues/273) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. 🎉 Merged PR [#748](https://github.com/HenryQW/api.henry.wang/pull/748) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+1. 🗣 Commented on [#7093](https://github.com/DIYgod/RSSHub/issues/7093) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 💪 Opened PR [#89](https://github.com/levito/tt-rss-feedly-theme/pull/89) in [levito/tt-rss-feedly-theme](https://github.com/levito/tt-rss-feedly-theme)
+3. ❗️ Closed issue [#274](https://github.com/HenryQW/Awesome-TTRSS/issues/274) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. 🎉 Merged PR [#275](https://github.com/HenryQW/Awesome-TTRSS/pull/275) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#273](https://github.com/HenryQW/Awesome-TTRSS/issues/273) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
