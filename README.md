@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#267](https://github.com/HenryQW/Awesome-TTRSS/issues/267) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. 🎉 Merged PR [#84](https://github.com/HenryQW/cs.henry.wang/pull/84) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
 2. 🗣 Commented on [#267](https://github.com/HenryQW/Awesome-TTRSS/issues/267) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🎉 Merged PR [#19](https://github.com/HenryQW/OpenCC.henry.wang/pull/19) in [HenryQW/OpenCC.henry.wang](https://github.com/HenryQW/OpenCC.henry.wang)
-4. ❌ Closed PR [#327](https://github.com/HenryQW/travel.henry.wang/pull/327) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
-5. 🎉 Merged PR [#277](https://github.com/HenryQW/Awesome-TTRSS/pull/277) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+3. 🗣 Commented on [#267](https://github.com/HenryQW/Awesome-TTRSS/issues/267) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. 🎉 Merged PR [#19](https://github.com/HenryQW/OpenCC.henry.wang/pull/19) in [HenryQW/OpenCC.henry.wang](https://github.com/HenryQW/OpenCC.henry.wang)
+5. ❌ Closed PR [#327](https://github.com/HenryQW/travel.henry.wang/pull/327) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
 <!--END_SECTION:activity-->
