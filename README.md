@@ -14,8 +14,8 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#24](https://github.com/HenryQW/mercury_fulltext/issues/24) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
-2. ❗️ Closed issue [#24](https://github.com/HenryQW/mercury_fulltext/issues/24) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
-3. 🎉 Merged PR [#758](https://github.com/HenryQW/api.henry.wang/pull/758) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-4. 🗣 Commented on [#844](https://github.com/AdguardTeam/AdguardForMac/issues/844) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
-5. ❗️ Reopened issue [#24](https://github.com/HenryQW/mercury_fulltext/issues/24) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
+2. 🗣 Commented on [#24](https://github.com/HenryQW/mercury_fulltext/issues/24) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
+3. ❗️ Closed issue [#24](https://github.com/HenryQW/mercury_fulltext/issues/24) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
+4. 🎉 Merged PR [#758](https://github.com/HenryQW/api.henry.wang/pull/758) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+5. 🗣 Commented on [#844](https://github.com/AdguardTeam/AdguardForMac/issues/844) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
 <!--END_SECTION:activity-->
