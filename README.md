@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#763](https://github.com/HenryQW/api.henry.wang/pull/763) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. 🗣 Commented on [#844](https://github.com/AdguardTeam/AdguardForMac/issues/844) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
-3. 🎉 Merged PR [#86](https://github.com/HenryQW/Thank-You-Japan/pull/86) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
-4. 🎉 Merged PR [#759](https://github.com/HenryQW/api.henry.wang/pull/759) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-5. 🎉 Merged PR [#762](https://github.com/HenryQW/api.henry.wang/pull/762) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+1. 🎉 Merged PR [#87](https://github.com/HenryQW/Thank-You-Japan/pull/87) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+2. 🎉 Merged PR [#764](https://github.com/HenryQW/api.henry.wang/pull/764) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#765](https://github.com/HenryQW/api.henry.wang/pull/765) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+4. 🎉 Merged PR [#766](https://github.com/HenryQW/api.henry.wang/pull/766) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+5. 🗣 Commented on [#844](https://github.com/AdguardTeam/AdguardForMac/issues/844) in [AdguardTeam/AdguardForMac](https://github.com/AdguardTeam/AdguardForMac)
 <!--END_SECTION:activity-->
