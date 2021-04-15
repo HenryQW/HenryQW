@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#286](https://github.com/HenryQW/Awesome-TTRSS/issues/286) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-2. 🗣 Commented on [#286](https://github.com/HenryQW/Awesome-TTRSS/issues/286) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🗣 Commented on [#288](https://github.com/HenryQW/Awesome-TTRSS/issues/288) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🎉 Merged PR [#769](https://github.com/HenryQW/api.henry.wang/pull/769) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-5. 🎉 Merged PR [#775](https://github.com/HenryQW/api.henry.wang/pull/775) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+1. 🗣 Commented on [#288](https://github.com/HenryQW/Awesome-TTRSS/issues/288) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+2. ❗️ Closed issue [#286](https://github.com/HenryQW/Awesome-TTRSS/issues/286) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+3. 🗣 Commented on [#286](https://github.com/HenryQW/Awesome-TTRSS/issues/286) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. 🗣 Commented on [#288](https://github.com/HenryQW/Awesome-TTRSS/issues/288) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🎉 Merged PR [#769](https://github.com/HenryQW/api.henry.wang/pull/769) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
 <!--END_SECTION:activity-->
