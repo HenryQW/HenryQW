@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#792](https://github.com/HenryQW/api.henry.wang/pull/792) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-2. ❌ Closed PR [#783](https://github.com/HenryQW/api.henry.wang/pull/783) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-3. 🎉 Merged PR [#787](https://github.com/HenryQW/api.henry.wang/pull/787) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-4. 🎉 Merged PR [#782](https://github.com/HenryQW/api.henry.wang/pull/782) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
-5. 🎉 Merged PR [#90](https://github.com/HenryQW/Thank-You-Japan/pull/90) in [HenryQW/Thank-You-Japan](https://github.com/HenryQW/Thank-You-Japan)
+1. ❌ Closed PR [#799](https://github.com/HenryQW/api.henry.wang/pull/799) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+2. ❌ Closed PR [#802](https://github.com/HenryQW/api.henry.wang/pull/802) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. ❌ Closed PR [#801](https://github.com/HenryQW/api.henry.wang/pull/801) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+4. ❌ Closed PR [#800](https://github.com/HenryQW/api.henry.wang/pull/800) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+5. ❗️ Closed issue [#294](https://github.com/HenryQW/Awesome-TTRSS/issues/294) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
