@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#300](https://github.com/HenryQW/Awesome-TTRSS/pull/300) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-2. 🎉 Merged PR [#88](https://github.com/HenryQW/cs.henry.wang/pull/88) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-3. 🎉 Merged PR [#90](https://github.com/HenryQW/cs.henry.wang/pull/90) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-4. 🎉 Merged PR [#89](https://github.com/HenryQW/cs.henry.wang/pull/89) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-5. 🎉 Merged PR [#298](https://github.com/HenryQW/Awesome-TTRSS/pull/298) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. 🗣 Commented on [#358](https://github.com/HenryQW/travel.henry.wang/issues/358) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
+2. 🗣 Commented on [#359](https://github.com/HenryQW/travel.henry.wang/issues/359) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
+3. 🎉 Merged PR [#356](https://github.com/HenryQW/travel.henry.wang/pull/356) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
+4. 🎉 Merged PR [#357](https://github.com/HenryQW/travel.henry.wang/pull/357) in [HenryQW/travel.henry.wang](https://github.com/HenryQW/travel.henry.wang)
+5. 🎉 Merged PR [#272](https://github.com/HenryQW/mercury-parser-api/pull/272) in [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api)
 <!--END_SECTION:activity-->
