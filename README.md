@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/thevisgroup/EnsembleVis/pull/3) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
-2. 🎉 Merged PR [#2](https://github.com/thevisgroup/EnsembleVis/pull/2) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
-3. 🎉 Merged PR [#1](https://github.com/thevisgroup/EnsembleVis/pull/1) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
-4. 🎉 Merged PR [#39](https://github.com/HenryQW/EHR-STAR/pull/39) in [HenryQW/EHR-STAR](https://github.com/HenryQW/EHR-STAR)
-5. 🎉 Merged PR [#37](https://github.com/HenryQW/EHR-STAR/pull/37) in [HenryQW/EHR-STAR](https://github.com/HenryQW/EHR-STAR)
+1. ❗️ Closed issue [#301](https://github.com/HenryQW/Awesome-TTRSS/issues/301) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+2. 🗣 Commented on [#301](https://github.com/HenryQW/Awesome-TTRSS/issues/301) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+3. ❗️ Closed issue [#302](https://github.com/HenryQW/Awesome-TTRSS/issues/302) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+4. 🗣 Commented on [#302](https://github.com/HenryQW/Awesome-TTRSS/issues/302) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🎉 Merged PR [#3](https://github.com/thevisgroup/EnsembleVis/pull/3) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
 <!--END_SECTION:activity-->
