@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#94](https://github.com/HenryQW/cs.henry.wang/pull/94) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-2. 🎉 Merged PR [#95](https://github.com/HenryQW/cs.henry.wang/pull/95) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-3. 🎉 Merged PR [#92](https://github.com/HenryQW/cs.henry.wang/pull/92) in [HenryQW/cs.henry.wang](https://github.com/HenryQW/cs.henry.wang)
-4. 🎉 Merged PR [#25](https://github.com/HenryQW/mercury_fulltext/pull/25) in [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext)
-5. 🎉 Merged PR [#40](https://github.com/HenryQW/EHR-STAR/pull/40) in [HenryQW/EHR-STAR](https://github.com/HenryQW/EHR-STAR)
+1. 🎉 Merged PR [#4](https://github.com/thevisgroup/EnsembleVis/pull/4) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
+2. 🎉 Merged PR [#823](https://github.com/HenryQW/api.henry.wang/pull/823) in [HenryQW/api.henry.wang](https://github.com/HenryQW/api.henry.wang)
+3. 🎉 Merged PR [#5](https://github.com/thevisgroup/EnsembleVis/pull/5) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
+4. 🎉 Merged PR [#304](https://github.com/HenryQW/Awesome-TTRSS/pull/304) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🎉 Merged PR [#303](https://github.com/HenryQW/Awesome-TTRSS/pull/303) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
