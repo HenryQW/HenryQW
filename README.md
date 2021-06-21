@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/thevisgroup/EnsembleVis/pull/7) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
-2. 🎉 Merged PR [#306](https://github.com/HenryQW/Awesome-TTRSS/pull/306) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-3. 🗣 Commented on [#307](https://github.com/HenryQW/Awesome-TTRSS/issues/307) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-4. 🎉 Merged PR [#308](https://github.com/HenryQW/Awesome-TTRSS/pull/308) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
-5. 💪 Opened PR [#308](https://github.com/HenryQW/Awesome-TTRSS/pull/308) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+1. ❌ Reopened PR [#7746](https://github.com/DIYgod/RSSHub/pull/7746) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 💪 Opened PR [#7746](https://github.com/DIYgod/RSSHub/pull/7746) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+3. 🎉 Merged PR [#7](https://github.com/thevisgroup/EnsembleVis/pull/7) in [thevisgroup/EnsembleVis](https://github.com/thevisgroup/EnsembleVis)
+4. 🎉 Merged PR [#306](https://github.com/HenryQW/Awesome-TTRSS/pull/306) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
+5. 🗣 Commented on [#307](https://github.com/HenryQW/Awesome-TTRSS/issues/307) in [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS)
 <!--END_SECTION:activity-->
